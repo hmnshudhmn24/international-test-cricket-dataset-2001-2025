@@ -14,4 +14,4 @@ This dataset includes delivery-level events, player actions, innings data, and f
 Available in **JSON** and **YAML** formats.
 
 ## License
-Released under **CC0 1.0 Universal** — free to use, modify, and distribute without restrictions.
+Released under **CC0 1.0 Universal**
